@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { ArrowUturnLeftIcon } from '@heroicons/react/24/solid'
-
+// import '../app/globals.css'
 const StudioNavbar = (props : any) => {
     return (
         <div>
